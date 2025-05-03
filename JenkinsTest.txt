@@ -1,0 +1,4 @@
+echo "Love is beautiful"
+We are in London
+Call me Thango
+You are Mayilu
